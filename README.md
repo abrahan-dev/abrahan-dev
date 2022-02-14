@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Abrahán
+- 👀 I’m interested in web development, functional programming and web3
+- 🌱 I’m currently learning clojure and web3
