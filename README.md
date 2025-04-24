@@ -1,7 +1,9 @@
-🇪🇸🇫🇷🇬🇧
+# About Me
 
-I'm a senior software engineer specialized in SaaS applications.
+Senior software developer specializing in web (SaaS) applications (+10 yrs). Experienced in backend and frontend across industries like banking, accounting, healthcare, tourism, and risk management, with a primary focus on backend engineering.
 
-I've worked in back-ends and front-ends for domains such as banking, accounting, health care, tourism or risk management, using code to solve business problems since 2012.
+Proficient in TypeScript/JavaScript, Node.js, Bun, and PHP (strong experience with Zend, some work with Laravel/Symfony), plus databases like MySQL and PostgreSQL. Worked with frontend technologies, mainly Vue and some React (Next.js). Quick to adapt to new frameworks and methodologies.
 
-I'm a thoughtful, autonomous, open-minded, problem driven developer. I'm always willing to learn and share knowledge and I like minimalist, well-crafted code.
+Passionate about clean code, AI-driven workflows, problem-solving, and project management.
+
+I prefer leadership roles (Lead Developer, Technical Lead) but am open to opportunities like Junior CTO, Engineering Manager, Quality Assurance, or Senior Developer.
